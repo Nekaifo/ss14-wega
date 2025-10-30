@@ -34,3 +34,5 @@ uplink-ammo-sniper-name = Магазин (.60 антиматериальный)
 uplink-ammo-sniper-desc = Магазин под патрон .60 антиматериальный. Совместим с продвинутой снайперской винтовкой.
 uplink-syndicate-camera-name = Синдикатовский визор наблюденения бодикамер
 uplink-syndicate-camera-desc = Визор, который позволяет наблюдать за бодикамерами СБ.
+uplink-syndie-player-name = Плеер синдиката
+uplink-syndie-player-desc = Позволяет разбавить рутинную резню своей любимой музыкой.
