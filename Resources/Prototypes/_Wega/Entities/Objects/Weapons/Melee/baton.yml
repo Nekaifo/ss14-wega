@@ -15,16 +15,17 @@
     damage:
       types:
         Blunt: 15
-    bluntStaminaDamageFactor: 0.5
   - type: StaminaDamageOnHit
-    damage: 23
+    damage: 15
   - type: StaminaDamageOnCollide
-    damage: 23
+    damage: 15
   - type: Battery
     maxCharge: 750
     startingCharge: 750
   - type: Clothing
     sprite: _Wega/Objects/Weapons/Melee/batonBS.rsi
+  - type: BonusMeleeDamage
+    heavyDamageMultiplier: 1.3
 
 - type: entity
   name: contractor baton

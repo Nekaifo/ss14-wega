@@ -46,9 +46,6 @@
         {
             "name": "inhand-right-stripe",
             "directions": 4
-        },
-        {
-            "name": "blue-icon"
         }
     ]
 }
